@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/vercel.png"
+              src="/Logan.png"
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
